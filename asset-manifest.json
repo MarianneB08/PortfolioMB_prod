@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72884c89.css",
+    "main.js": "/static/js/main.4d297d22.js",
+    "static/media/photo.jpg": "/static/media/photo.02f7cdd1453d1c28dcce.jpg",
+    "static/media/CV.pdf": "/static/media/CV.d524e851ca3d9d60cb3e.pdf",
+    "static/media/logo_Express.svg": "/static/media/logo_Express.872fbd3b80bd48bac65a73d3d9ddde27.svg",
+    "static/media/logo_Postman.svg": "/static/media/logo_Postman.63da52f2c3ee6765406aefa136166412.svg",
+    "static/media/logo_Node.svg": "/static/media/logo_Node.617a5fa12bb8080d040414a27f31875f.svg",
+    "static/media/logo_Sass.svg": "/static/media/logo_Sass.b1dd8976c2676de908bf205b4cbe6b4c.svg",
+    "static/media/logo_React.svg": "/static/media/logo_React.b2ed6a786e1f4a02759dda27a4179c95.svg",
+    "static/media/logo_GitHub.svg": "/static/media/logo_GitHub.6b4936017c979a293fba12b2f51ddfdf.svg",
+    "static/media/logo_MongoDB.svg": "/static/media/logo_MongoDB.84a9718f2791a0039a6f065bea898d43.svg",
+    "index.html": "/index.html",
+    "static/media/logo_Linkedin.svg": "/static/media/logo_Linkedin.11b3d3ff09a808c3d3c052154ac79220.svg",
+    "static/media/logo_CSS3.svg": "/static/media/logo_CSS3.b62e8f30acdb73149ab10b4fce0cc152.svg",
+    "static/media/logo_HTML5.svg": "/static/media/logo_HTML5.ea201686cd102e02655db91262c5a6ba.svg",
+    "static/media/logo_JavaScript.svg": "/static/media/logo_JavaScript.5bf1fde3b26b16a6994d95d84ce5fb33.svg",
+    "main.72884c89.css.map": "/static/css/main.72884c89.css.map",
+    "main.4d297d22.js.map": "/static/js/main.4d297d22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72884c89.css",
+    "static/js/main.4d297d22.js"
+  ]
+}
